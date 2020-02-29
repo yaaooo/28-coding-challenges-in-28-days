@@ -1,8 +1,18 @@
 # 28 Coding Challenges in 28 Days
 
-The code in this repository exists to complement the following articles:
+The code in this repository complements [this series of posts](https://yao.page/posts/28-coding-challenges-in-28-days) on algorithmic problems.
 
-## 📝 Challenges
+## 🗓 Weekly Prompts
+
+- [Week 1 Problems](/problems-01.md)
+
+- [Week 2 Problems](/problems-02.md)
+
+- [Week 3 Problems](/problems-03.md)
+
+- [Week 4 Problems](/problems-04.md)
+
+## 📖 Walkthroughs
 
 - [Alien Dictionary](https://yao.page/posts/alien-dictionary-python/)
 
@@ -59,8 +69,6 @@ The code in this repository exists to complement the following articles:
 - [Convex Hull](https://yao.page/posts/convex-hull-python/)
 
 - [Sliding Puzzle](https://yao.page/posts/sliding-puzzle-python/)
-
-The original blogpost can be found [here]().
 
 Majority of the 28 questions fall within the so-called "Hard" range, but these difficulty labels are sometimes too subjective to be useful. I'd recommend just thinking of them as generic coding challenges.
 
