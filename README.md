@@ -1,6 +1,6 @@
 # 28 Coding Challenges in 28 Days
 
-The code in this repository exists to complement [this series of posts](https://yao.page/posts/28-coding-challenges-in-28-days) on algorithmic problems.
+The code in this repository exists to complement [this series of posts](https://yao.page/posts/28-coding-challenges-in-28-days-python/) on algorithmic problems.
 
 ## 🗓 Weekly Prompts
 
